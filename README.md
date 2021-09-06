@@ -1,3 +1,7 @@
-### Olá sou Ailton Soares 👋
+### Olá,  Sou Ailton
 
-Sou um  Analista  de Cobrança estudante de Ciências de  Dados e esse é meu Portfólio Profissional. 
+### Sobre Mim
+Sou Analista de Cobrança, e  no momento  estudando Ciências de Dados  para novas oportunidades no futuro.
+ 
+- [Skills] 👨🏼‍🏫 -Python, R, Power BI, R 
+- [Site Pessoal](https://bit.ly/3DNhc3Z) 💻 - em construção
